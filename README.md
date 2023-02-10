@@ -49,7 +49,7 @@ The data types of the columns were assigned appropriately, with categorical vari
 - To identify patterns and trends in the data, time series plots were generated for variables such as the number of launches by different companies over time.
 Further, the data was aggregated based on different categories, such as the number of launches by different companies, the number of launches from different locations, and the number of launches of different rocket types.
  
-![alt text](7.png "Most used locations in USA")  ![alt text](8.png "Most used locations in Russia")
+
 
 
 - Finally, the data was used to build predictive models that could be used to forecast the number of launches in future.
