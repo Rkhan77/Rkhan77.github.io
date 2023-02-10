@@ -1,6 +1,8 @@
-# Rezaul Khan
+Rezaul Khan | Email: Khanrezaul77@gmail.com
+### Portfolio
 Explortory Data Analysis
-Khanrezaul77@gmail.com
+
+
 
 # Project 1 | Space Missions Data Analysis
 
