@@ -12,6 +12,8 @@ This DataSet was scraped from https://nextspaceflight.com/launches/past/?page=1 
 
 Objective: To create a comprehensive dataset of all space missions since the beginning of the space race in 1957.
 
+![alt text](3.png "Logo Title Text 1") 
+
 Data Sources: The data for this project has been sourced from various reliable sources such as NASA, European Space Agency (ESA), Russian Space Agency (ROSCOSMOS), China National Space Administration (CNSA), and others. The data includes information on over 4000 space missions from various countries including the United States, Russia, China, Europe, and others.
 
 ![alt text](6.png "USA vs RUSSIA")
@@ -28,7 +30,7 @@ Analysis: The dataset can be used for various purposes such as research, educati
 Conclusion: This Space Mission Dataset provides a comprehensive overview of the history of space exploration and is a valuable resource for anyone interested in space history and technology. The dataset will be updated regularly to ensure its relevance and accuracy.
 
 ![alt text](2.png "Logo Title Text 1")
-![alt text](3.png "Logo Title Text 1") 
+
 ![alt text](4.png "Logo Title Text 1")
 ![alt text](5.png "Logo Title Text 1")
 
