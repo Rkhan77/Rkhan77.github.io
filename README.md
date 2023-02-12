@@ -88,7 +88,7 @@ This program will prompt for and read in person’s first and the last name on c
 
 
 ## Description: 
-This program is a single-player simple word game on commmand line interface(CLI), where the user enters as many words as they are able to think of using a selection of 9 letters. The user can play the game in “easy mode” or “hard mode”. This project was part of my academic assessment. This project was important to me because it helped to learn how to code in Python. Thank you for taking the time to check out my project! The program first selects 9 letters of the alphabet at random. The same letter can appear multiple times, and the selection process uses the frequency of letters in the game of Scrabble when choosing letters, so that the 9 letters chosen are more likely to contain letters that are common in English words, e.g. the letters are much more likely to contain “E”, “I” or “A” than “Z”, “Q” or “X”.
+This program is a single-player simple word game on commmand line interface(CLI), where the user enters as many words as they are able to think of using a selection of 9 letters. The user can play the game in “easy mode” or “hard mode”. This project was part of my academic assessment. The program first selects 9 letters of the alphabet at random. The same letter can appear multiple times, and the selection process uses the frequency of letters in the game of Scrabble when choosing letters, so that the 9 letters chosen are more likely to contain letters that are common in English words, e.g. the letters are much more likely to contain “E”, “I” or “A” than “Z”, “Q” or “X”. This project was important to me because it helped to learn how to code in Python. Thank you for taking the time to check out my project!
 
 
 
