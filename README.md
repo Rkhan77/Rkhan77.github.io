@@ -40,6 +40,7 @@ The data types of the columns were assigned appropriately, with categorical vari
 
 ![alt text](top_U_sites.png "Logo Title Text 1")
 ![alt text](top_R_sites.png "Logo Title Text 1")
+
 - To gain insights into the distribution of the data, histograms, box plots, and scatter plots were generated for various columns.
 
 
@@ -70,26 +71,24 @@ The analysis carried out in this project has provided valuable insights into the
 This Space Mission Dataset provides a comprehensive overview of the history of space exploration and is a valuable resource for anyone interested in space history and technology.
 
 
-# Project 2 | Customer Booking Program
+# Project 2 | Customer Booking Program 
 
-## Description: 
-This project was important to me because it helped to learn how to code in Python. Thank you for taking the time to check out my project!
 
 ![alt text](custp.png "Logo Title Text 1")
 
-## Objective: 
-This program will prompt for and read in person’s first and the last name and prompt to read the customer’s license number. The customer’s name and license number will be stored in different variables. The program will then output the name in a prompt to input the number of days that a customer wants to hire a car. The days of hire should be declared/assumed as an integer i.e., int.
-After all inputs (don’t forget to hit the Enter button on the keyboard), the program will execute and display the summary of hire including the rental.**
+
+## Description: 
+This program will prompt for and read in person’s first and the last name on command line interface (CLI). it prompts to read the customer’s license number. The customer’s name and license number will be stored in different variables. The program will then output the name in a prompt to input the number of days that a customer wants to hire a car. The days of hire should be declared/assumed as an integer i.e., int. After all inputs (don’t forget to hit the Enter button on the keyboard), the program will execute and display the summary of hire including the rental. This project was part of my academic assessment. This project was important to me because it helped to learn how to code in Python. Thank you for taking the time to check out my project!
 
 
-# Project 3 | Wordle Game
+# Project 3 | Wordle Game 
+
 
 ![alt text](wordfiind.png "Logo Title Text 1")
 
-## Objective: 
-This program is a single-player simple word game on commmand line interface(CLI), where the user enters as many words as they are able to think of using a selection of 9 letters. The user can play the game in “easy mode” or “hard mode”.
 
-The program first selects 9 letters of the alphabet at random. The same letter can appear multiple times, and the selection process uses the frequency of letters in the game of Scrabble when choosing letters, so that the 9 letters chosen are more likely to contain letters that are common in English words, e.g. the letters are much more likely to contain “E”, “I” or “A” than “Z”, “Q” or “X”.
+## Description: 
+This program is a single-player simple word game on commmand line interface(CLI), where the user enters as many words as they are able to think of using a selection of 9 letters. The user can play the game in “easy mode” or “hard mode”. This project was part of my academic assessment. This project was important to me because it helped to learn how to code in Python. Thank you for taking the time to check out my project! The program first selects 9 letters of the alphabet at random. The same letter can appear multiple times, and the selection process uses the frequency of letters in the game of Scrabble when choosing letters, so that the 9 letters chosen are more likely to contain letters that are common in English words, e.g. the letters are much more likely to contain “E”, “I” or “A” than “Z”, “Q” or “X”.
 
 
 
