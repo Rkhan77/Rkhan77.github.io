@@ -71,7 +71,27 @@ The analysis carried out in this project has provided valuable insights into the
 This Space Mission Dataset provides a comprehensive overview of the history of space exploration and is a valuable resource for anyone interested in space history and technology.
 
 
-# Project 2 | Customer Booking Program 
+# Project 2 | 5000+ US Companies Analysis Project
+
+## Project Summary:
+In this data analysis project, we worked with a data set that contained information about companies and their revenues. Our goal was to analyze the data and gain insights into the distribution of revenues across different industries and states.
+
+We started by cleaning and transforming the data set to ensure that it was in a usable format for analysis. This involved removing any irrelevant columns and transforming the 'revenue' column from a string to a numerical value.
+
+![alt text](all.png "Logo Title Text 1")
+
+Next, we performed some exploratory data analysis to get a better understanding of the data. This involved plotting histograms, bar graphs, and other types of plots to visualize the distribution of revenues across different industries and states.
+
+![alt text](adv.png "Logo Title Text 1")
+
+One key finding from our analysis was that the Advertising & Marketing industry was one of the highest-revenue industries in the data set. This was evident from our bar graph, which showed that states such as California, New York, and Texas had a high concentration of companies in this industry and were also generating the highest revenues.
+
+![alt text](bystaterev.png "Logo Title Text 1")
+We also found that there were a few outliers in the data set that were generating a significantly higher revenue than the rest of the companies. These outliers could have skewed the distribution of revenues and impacted our analysis.
+
+In conclusion, this data analysis project provided valuable insights into the distribution of revenues across different industries and states. Our findings suggest that the Advertising & Marketing industry is one of the highest-revenue industries in the data set and that states such as California, New York, and Texas are key contributors to this revenue. This information could be useful for businesses that are looking to expand into high-revenue industries or geographic locations.
+
+# Project 3 | Customer Booking Program 
 
 
 ![alt text](custp.png "Logo Title Text 1")
@@ -81,7 +101,7 @@ This Space Mission Dataset provides a comprehensive overview of the history of s
 This program will prompt for and read in person’s first and the last name on command line interface (CLI). it prompts to read the customer’s license number. The customer’s name and license number will be stored in different variables. The program will then output the name in a prompt to input the number of days that a customer wants to hire a car. The days of hire should be declared/assumed as an integer i.e., int. After all inputs (don’t forget to hit the Enter button on the keyboard), the program will execute and display the summary of hire including the rental. This project was part of my academic assessment. This project was important to me because it helped to learn how to code in Python. Thank you for taking the time to check out my project!
 
 
-# Project 3 | Wordle Game 
+# Project 4 | Wordle Game 
 
 
 ![alt text](wordfiind.png "Logo Title Text 1")
