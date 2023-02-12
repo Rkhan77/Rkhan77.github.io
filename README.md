@@ -75,7 +75,7 @@ This Space Mission Dataset provides a comprehensive overview of the history of s
 ## Description: 
 This project was important to me because it helped to learn how to code in Python. Thank you for taking the time to check out my project!
 
-![alt text](Screenshot 2023-02-12 134511.png "Logo Title Text 1")
+![alt text](custp.png "Logo Title Text 1")
 
 ## Objective: 
 This program will prompt for and read in person’s first and the last name and prompt to read the customer’s license number. The customer’s name and license number will be stored in different variables. The program will then output the name in a prompt to input the number of days that a customer wants to hire a car. The days of hire should be declared/assumed as an integer i.e., int.
