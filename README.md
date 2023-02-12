@@ -4,7 +4,7 @@ Rezaul Khan | Email: Khanrezaul77@gmail.com
 
 
 
-# Project 1 | Space Missions Data Analysis | [Click here to see Code]([https://www.markdownguide.org](https://github.com/Rkhan77/Rkhan77.github.io/blob/main/1957-2022%20Space%20Missions.ipynb))
+# Project 1 | Space Missions Data Analysis | [Click here to see Code](https://github.com/Rkhan77/Rkhan77.github.io/blob/ee9d75ff2668e4b410689192c1f8477a5642d749/1957-2022%20Space%20Missions.ipynb)
 
 ## Description: 
 This DataSet was scraped from https://nextspaceflight.com/launches/past/?page=1 and includes all the space missions since the beginning of Space Race (1957). In this project we explore space missions in history 
