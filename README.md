@@ -82,6 +82,7 @@ We started by cleaning and transforming the data set to ensure that it was in a 
 
 Next, we performed some exploratory data analysis to get a better understanding of the data. This involved plotting histograms, bar graphs, and other types of plots to visualize the distribution of revenues across different industries and states.
 
+![alt text](bystaterev.png "Logo Title Text 1")
 
 ![alt text](adv.png "Logo Title Text 1")
 
