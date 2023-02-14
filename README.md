@@ -43,6 +43,7 @@ The data types of the columns were assigned appropriately, with categorical vari
 
 - To gain insights into the distribution of the data, histograms, box plots, and scatter plots were generated for various columns.
 
+![alt text](download.png "Logo Title Text 1")
 
 - To gain a better understanding of the relationships between different variables, correlation matrices were created, and correlations between pairs of columns were calculated.
 
