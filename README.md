@@ -1,5 +1,5 @@
 Rezaul Khan | Email: Khanrezaul77@gmail.com
-### Explortory Data Analysis and Programming Portfolio
+### Exploratory Data Analysis and Programming Portfolio
 
 # Project 1 | Space Missions Data Analysis | [Click here to see Code](https://github.com/Rkhan77/Rkhan77.github.io/blob/ee9d75ff2668e4b410689192c1f8477a5642d749/1957-2022%20Space%20Missions.ipynb)
 
