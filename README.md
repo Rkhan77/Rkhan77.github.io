@@ -32,9 +32,8 @@ Further, the data was aggregated based on different categories, such as the numb
 - the data will be used to build predictive models that could be used to forecast the number of launches in future.
 
 
-## 
 The analysis carried out in this project has provided valuable insights into the data. We have a better understanding of the distribution of the data, relationships between variables, patterns and trends. This information could be used by companies in the space industry to make informed decisions about their launch activities. This Space Mission Dataset provides a comprehensive overview of the history of space exploration and is a valuable resource for anyone interested in space history and technology.
-##
+
 
 ## Introduction:
 This report provides an analysis of the space missions launched by various countries between 1957 and 1978. The data analyzed includes the number of space missions launched by each country in a given year.
@@ -64,7 +63,9 @@ Russia started launching space missions in 1961, with a total of 2 missions for 
 ![alt text](2.png "Logo Title Text 1")
 
 In conclusion, the data suggests that the United States continues to be the leading country in space missions, followed by China and other countries that are increasing their capabilities in this field Other countries, including France, China, Japan, Australia, Kenya, and New Zealand, also launched a few space missions during this period. However, these countries collectively launched less than 50 missions during the period from 1957 to 1978.
+
 ![alt text](6.png "USA vs RUSSIA")
+
 Conclusion:
 The analysis of the data shows that the majority of the space missions launched between 1957 and 1978 were by Russia, followed by the United States and Kazakhstan. While other countries also launched a few missions during this period, the number of missions launched by these countries was relatively low compared to the United States and Russia. The data provides a useful insight into the space exploration efforts of various countries during the period from 1957 to 1978.
 
