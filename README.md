@@ -64,7 +64,7 @@ Russia started launching space missions in 1961, with a total of 2 missions for 
 ![alt text](2.png "Logo Title Text 1")
 
 In conclusion, the data suggests that the United States continues to be the leading country in space missions, followed by China and other countries that are increasing their capabilities in this field Other countries, including France, China, Japan, Australia, Kenya, and New Zealand, also launched a few space missions during this period. However, these countries collectively launched less than 50 missions during the period from 1957 to 1978.
-
+![alt text](6.png "USA vs RUSSIA")
 Conclusion:
 The analysis of the data shows that the majority of the space missions launched between 1957 and 1978 were by Russia, followed by the United States and Kazakhstan. While other countries also launched a few missions during this period, the number of missions launched by these countries was relatively low compared to the United States and Russia. The data provides a useful insight into the space exploration efforts of various countries during the period from 1957 to 1978.
 
@@ -88,8 +88,6 @@ One key finding from our analysis was that the Advertising & Marketing industry 
 
 ![alt text](all2.png "Logo Title Text 1")
 We also found that there were a few outliers in the data set that were generating a significantly higher revenue than the rest of the companies. These outliers could have skewed the distribution of revenues and impacted our analysis.
-
-![alt text](6.png "USA vs RUSSIA")
 
 In conclusion, this data analysis project provided valuable insights into the distribution of revenues across different industries and states. Our findings suggest that the Advertising & Marketing industry is one of the highest-revenue industries in the data set and that states such as California, New York, and Texas are key contributors to this revenue. This information could be useful for businesses that are looking to expand into high-revenue industries or geographic locations.
 
