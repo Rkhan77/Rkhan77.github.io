@@ -6,7 +6,7 @@ Projects Porfolio
 
 The objective of this project is to build a time series forecasting model to predict energy consumption in megawatts. The XGBoost model is used as it has been shown to be effective in time series forecasting tasks. The project begins with importing the necessary libraries including pandas, numpy, seaborn, matplotlib, datetime, and xgboost, as well as importing the evaluation metrics for regression models, mean squared error, and mean absolute error from Scikit-learn.
 
-![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/1.png)
+![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/543b495be43f07c1b7958fe1b0b4b5526c6a15ba/img%20files_energy/1.png)
 
 
 ![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/2.png)
