@@ -1,7 +1,32 @@
 ## Rezaul Khan | Email: Khanrezaul77@gmail.com
 Projects Porfolio
 
-## Project 1 | Space Missions Data Analysis | [Click here to see Code](https://github.com/Rkhan77/Rkhan77.github.io/blob/ee9d75ff2668e4b410689192c1f8477a5642d749/1957-2022%20Space%20Missions.ipynb)
+## Project 1 | Energy Consumption Forcast | [Click here to see Code](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/PowerPrediction.ipynb)
+
+
+The objective of this project is to build a time series forecasting model to predict energy consumption in megawatts. The XGBoost model is used as it has been shown to be effective in time series forecasting tasks. The project begins with importing the necessary libraries including pandas, numpy, seaborn, matplotlib, datetime, and xgboost, as well as importing the evaluation metrics for regression models, mean squared error, and mean absolute error from Scikit-learn.
+
+![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/1.png)
+
+
+![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/2.png)
+
+The data is then loaded and preprocessed, including converting the timestamp data into a datetime format and setting it as the index. The data is then split into training and testing sets.
+
+![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/3.png)
+
+
+The XGBoost model is trained on the training data, with hyperparameters optimized using cross-validation. The trained model is then used to make predictions on the testing data, and the evaluation metrics are calculated to assess the model's performance.
+
+![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/5.png)
+
+Finally, the model is used to make future predictions for the energy consumption in megawatts, providing insights into potential future trends in energy consumption.
+
+![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/6.png)
+
+
+
+## Project 2 | Space Missions Data Analysis | [Click here to see Code](https://github.com/Rkhan77/Rkhan77.github.io/blob/ee9d75ff2668e4b410689192c1f8477a5642d749/1957-2022%20Space%20Missions.ipynb)
 
 #### Description: 
 This DataSet was scraped from https://nextspaceflight.com/launches/past/?page=1 and includes all the space missions since the beginning of Space Race (1957). In this project we explore space missions in history 
