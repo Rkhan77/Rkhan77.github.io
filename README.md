@@ -6,23 +6,23 @@ Projects Porfolio
 
 The objective of this project is to build a time series forecasting model to predict energy consumption in megawatts. The XGBoost model is used as it has been shown to be effective in time series forecasting tasks. The project begins with importing the necessary libraries including pandas, numpy, seaborn, matplotlib, datetime, and xgboost, as well as importing the evaluation metrics for regression models, mean squared error, and mean absolute error from Scikit-learn.
 
-![alt text](/img%20files_energy/1.png)
+![alt text](img files_energy/1.png)
 
 
-![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/2.png)
+![alt text](img files_energy/2.png)
 
 The data is then loaded and preprocessed, including converting the timestamp data into a datetime format and setting it as the index. The data is then split into training and testing sets.
 
-![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/3.png)
+![alt text](img files_energy/3.png)
 
 
 The XGBoost model is trained on the training data, with hyperparameters optimized using cross-validation. The trained model is then used to make predictions on the testing data, and the evaluation metrics are calculated to assess the model's performance.
 
-![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/5.png)
+![alt text](img files_energy/5.png)
 
 Finally, the model is used to make future predictions for the energy consumption in megawatts, providing insights into potential future trends in energy consumption.
 
-![alt text](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/img%20files/6.png)
+![alt text](img files_energy/6.png)
 
 
 
