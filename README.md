@@ -1,5 +1,17 @@
 ## Rezaul Khan | Email: Khanrezaul77@gmail.com
-Projects Porfolio
+Hi there! 👋
+
+Thank you for visiting my GitHub portfolio. I'm Rez, a data enthusiast passionate about turning raw data into actionable insights. This space is a collection of my projects showcasing my skills in data analysis, visualization, and storytelling.
+
+What You'll Find Here:
+Data Cleaning & Transformation: Demonstrating my ability to prepare messy data for analysis.
+Exploratory Data Analysis (EDA): Uncovering patterns and trends through statistical and visual methods.
+Interactive Dashboards: Bringing data to life with dynamic and user-friendly tools.
+Machine Learning Models: Leveraging predictive analytics to solve complex problems.
+Tools & Technologies I Use:
+Python, R, SQL, Tableau, Power BI, Excel, and more.
+
+Feel free to explore the repositories, and don’t hesitate to reach out if you have any feedback or questions. Let’s connect and collaborate! 🚀
 
 ## Project 1 | Energy Consumption Forcast | [Click here to see Code](https://github.com/Rkhan77/Rkhan77.github.io/blob/5b041fef1aeed469b6376dd09658b1fe921a394d/Project%20files/Energy%20Consumption%20Forcast/Project%20files/PowerPrediction.ipynb)
 
