@@ -34,7 +34,7 @@ const CONFIG = {
             `Automate the preparation of payment request emails for new and existing clients while accurately calculating fees and service quantities.`,
           imageUrl: 
             'Projects/img/ap1.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/e249614a0618cf1ea10f848794adef82972aed72/Projects/img/ap1.png',
+          link: '',
         },
         {
           title: 'Automation Project 2: Onboarding Email',
