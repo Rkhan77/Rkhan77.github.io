@@ -40,7 +40,7 @@ quantities.
 • Updated processing logs automatically
 • Reduced manual administration and calculation errors`,
           imageUrl: 'Projects/img/ap1.png',
-          link: 'https://example.com',
+          link: 'Projects/img/ap1.png',
         },
         {
           title: 'Automation Project 2: Onboarding Email',
