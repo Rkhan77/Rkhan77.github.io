@@ -31,8 +31,12 @@ const CONFIG = {
         {
           title: 'Automation Project 1: Client Payment Request Email',
           description:
-            'Automate the preparation of payment request emails for new and existing clients while accurately calculating fees and service quantities.',
-          imageUrl: 'img/Client Payment Info Automation.png',
+            `• Automated fee and service quantity calculations
+• Generated personalised payment request emails
+• Created Outlook draft emails for review
+• Updated processing logs automatically
+• Reduced manual administration and calculation errors`,
+          imageUrl: 'Projects/img/Client Payment Info Automation.png',
           link: 'https://example.com',
         },
         {
@@ -81,13 +85,13 @@ const CONFIG = {
 
   seo: {
     title: 'Rezaul_Portfolio',
-    description: 'AI & Automation',
+    description: '',
     imageURL: '',
   },
 
   social: {
     location: 'Perth WA 6103 Australia',
-    linkedin: 'rezaul-khan',
+    linkedin: 'rezaul-k',
     instagram: 'rezaul_kh4n',
     gurushots: 'https://gurushots.com/RawPixel/',
     phone: '0449695807',
