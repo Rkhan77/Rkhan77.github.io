@@ -30,53 +30,44 @@ const CONFIG = {
       projects: [
         {
           title: 'Automation Project 1: Client Payment Request Email',
-          description:
-            `Automate the preparation of payment request emails for new and existing clients while accurately calculating fees and service quantities.
-            Eliminated repetitive data entry.
-Improved record accuracy.
-Reduced administrative overhead.
-Increased visibility of client records.
-`,
-          imageUrl: 
-            'Projects/img/ap1.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap1.png',
+          description: `Automate the preparation of payment request emails for new and existing clients while accurately calculating fees and service quantities.
+          
+- Eliminated repetitive data entry
+- Improved record accuracy
+- Reduced administrative overhead
+- Increased visibility of client records`,
+          imageUrl: '/Projects/img/ap1.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
         },
         {
           title: 'Automation Project 2: Onboarding Email',
-          description:
-            'Automated personalised welcome emails for new clients.',
-          imageUrl: 'Projects/img/ap2.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap2.png',
+          description: 'Automated personalised welcome emails for new clients.',
+          imageUrl: '/Projects/img/ap2.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap2.png',
         },
         {
           title: 'Automation Project 3: Update Client Database',
-          description:
-            'Automate client database updates with accurate record handling.',
-          imageUrl: 'Projects/img/ap3.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap3.png',
+          description: 'Automate client database updates with accurate record handling.',
+          imageUrl: '/Projects/img/ap3.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap3.png',
         },
         {
           title: 'Automation Project 4: Update Cellcast and Outlook Contacts',
-          description:
-            'Sync and update contacts across Cellcast and Outlook automatically.',
-          imageUrl: 'Projects/img/ap4.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap4.png',
+          description: 'Sync and update contacts across Cellcast and Outlook automatically.',
+          imageUrl: '/Projects/img/ap4.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap4.png',
         },
         {
           title: 'Automation Project 5: Scheduled AI-Powered Marketing SMS',
-          description:
-            'Schedule and send AI-powered marketing SMS campaigns automatically.',
-          imageUrl:
-            'Projects/img/ap5.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap5.png',
+          description: 'Schedule and send AI-powered marketing SMS campaigns automatically.',
+          imageUrl: '/Projects/img/ap5.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap5.png',
         },
         {
           title: 'Automation Project 6: Job Allocation Email',
-          description:
-            'Automated job allocation and notification emails for internal teams.',
-          imageUrl:
-            'Projects/img/ap6.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap6.png',
+          description: 'Automated job allocation and notification emails for internal teams.',
+          imageUrl: '/Projects/img/ap6.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap6.png',
         },
       ],
     },
@@ -84,21 +75,21 @@ Increased visibility of client records.
 
   seo: {
     title: 'Rezaul_Portfolio',
-    description: '',
+    description: 'Portfolio of automation, AI, and data projects',
     imageURL: '',
   },
 
   social: {
-    location: 'Perth WA 6103 Australia',
+    location: 'Perth WA 6103, Australia',
     linkedin: 'rezaul-k',
     instagram: 'rezaul_kh4n',
-    gurushots: 'https://gurushots.com/RawPixel/',
+    gurushots: 'RawPixel',
     phone: '0449695807',
     email: 'khanrezaul77@gmail.com',
   },
 
   resume: {
-    fileUrl: 'Projects/Resume_rkhan_2026.pdf',
+    fileUrl: '/Projects/Resume_rkhan_2026.pdf',
   },
 
   skills: [
@@ -137,8 +128,8 @@ Increased visibility of client records.
 
   certifications: [
     {
-      name: 'Python for data science & AI development',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'Python for Data Science & AI Development',
+      body: '',
       year: 'March 2022',
       link: 'https://example.com',
     },
@@ -174,42 +165,14 @@ Increased visibility of client records.
     respectPrefersColorScheme: false,
     displayAvatarRing: false,
     themes: [
-      'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
-      'caramellatte',
-      'abyss',
-      'silk',
-      'procyon',
+      'light', 'dark', 'cupcake', 'bumblebee', 'emerald',
+      'corporate', 'synthwave', 'retro', 'cyberpunk',
+      'valentine', 'halloween', 'garden', 'forest',
+      'aqua', 'lofi', 'pastel', 'fantasy', 'wireframe',
+      'black', 'luxury', 'dracula', 'cmyk', 'autumn',
+      'business', 'acid', 'lemonade', 'night', 'coffee',
+      'winter', 'dim', 'nord', 'sunset', 'caramellatte',
+      'abyss', 'silk', 'procyon',
     ],
   },
 
