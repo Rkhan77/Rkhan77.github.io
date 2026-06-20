@@ -105,7 +105,7 @@ const ExternalProjectCard = ({
                           alt={'thumbnail'}
                           placeholder={skeleton({
                             widthCls: 'w-full',
-                            heightCls: 'h-full',
+                            heightCls: 'h-24',
                             shape: '',
                           })}
                         />
