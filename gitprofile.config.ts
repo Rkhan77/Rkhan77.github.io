@@ -32,7 +32,7 @@ const CONFIG = {
           title: 'Automation Project 1: Client Payment Request Email',
           description:
             'Automate the preparation of payment request emails for new and existing clients while accurately calculating fees and service quantities.',
-          imageUrl: 'Projects/img/Client Payment Info Automation.png',
+          imageUrl: 'img/Client Payment Info Automation.png',
           link: 'https://example.com',
         },
         {
