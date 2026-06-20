@@ -26,80 +26,99 @@ const CONFIG = {
     },
 
     external: {
-      header: 'Projects',
+      header: 'Automation & AI Projects',
       projects: [
         {
-          title: 'Automation Project 1: Client Payment Request Email',
-          description: `Reduced manual billing preparation time by ~80% by automating fee calculation and email generation for client payments`,
-          imageUrl: '/Projects/img/ap1.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
+          title: 'Automated Client Billing & Payment System',
+          description:
+            'Reduced manual billing preparation time by ~80% by automating fee calculation and email generation for client payments',
+          imageUrl:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
+          link:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
         },
         {
-          title: 'Automation Project 2: Onboarding Email',
-          description: 'Automated personalised welcome emails for new clients.',
-          imageUrl: '/Projects/img/ap2.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap2.png',
+          title: 'Automated Client Onboarding Email System',
+          description:
+            'Automated personalised welcome emails for new clients and triggered onboarding workflows',
+          imageUrl:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap2.png',
+          link:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap2.png',
         },
         {
-          title: 'Automation Project 3: Update Client Database',
-          description: 'Automate client database updates with accurate record handling.',
-          imageUrl: '/Projects/img/ap3.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap3.png',
+          title: 'Client Data Synchronisation Pipeline',
+          description:
+            'Automates client database updates with accurate record validation and cross-system syncing',
+          imageUrl:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap3.png',
+          link:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap3.png',
         },
         {
-          title: 'Automation Project 4: Update Cellcast and Outlook Contacts',
-          description: 'Sync and update contacts across Cellcast and Outlook automatically.',
-          imageUrl: '/Projects/img/ap4.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap4.png',
+          title: 'Cross-Platform Contact Sync Automation',
+          description:
+            'Syncs and updates contacts between Cellcast and Outlook automatically',
+          imageUrl:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap4.png',
+          link:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap4.png',
         },
         {
-          title: 'Automation Project 5: Scheduled AI-Powered Marketing SMS',
-          description: 'Schedule and send AI-powered marketing SMS campaigns automatically.',
-          imageUrl: '/Projects/img/ap5.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap5.png',
+          title: 'AI-Powered SMS Marketing Scheduler',
+          description:
+            'Schedules and sends AI-assisted SMS marketing campaigns automatically',
+          imageUrl:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap5.png',
+          link:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap5.png',
         },
         {
-          title: 'Automation Project 6: Job Allocation Email',
-          description: 'Automated job allocation and notification emails for internal teams.',
-          imageUrl: '/Projects/img/ap6.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap6.png',
+          title: 'Automated Job Allocation Notification System',
+          description:
+            'Automates internal job allocation notifications and workforce coordination emails',
+          imageUrl:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap6.png',
+          link:
+            'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap6.png',
         },
       ],
     },
   },
 
   seo: {
-    title: 'Rezaul_Portfolio',
-    description: 'Portfolio of automation, AI, and data projects',
-    imageURL: '',
+    title: 'Rezaul Portfolio',
+    description: 'Portfolio of automation, AI, and data engineering projects',
+    imageURL:
+      'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
   },
 
   social: {
     linkedin: 'rezaul-k',
     instagram: 'rezaul_kh4n',
     gurushots: 'RawPixel',
-    phone: '0449695807',
+    phone: '+61 449 695 807',
     email: 'khanrezaul77@gmail.com',
   },
+
   resume: {
-    fileUrl: '/Projects/Resume_rkhan_2026.pdf',
+    fileUrl:
+      'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/Resume_rkhan_2026.pdf',
   },
 
   skills: [
+    'Automation Engineering',
     'Python',
     'JavaScript',
-    'HTML',
+    'API Integration',
+    'n8n Workflow Automation',
     'Microsoft Azure (Entra ID)',
     'Google Cloud',
-    'Cellcast SMS Platform',
-    'Docker',
-    'n8n',
     'Large Language Models',
-    'XGBoost Machine Learning Library',
-    'LM Studio',
+    'Docker',
+    'Data Pipelines',
+    'System Integration',
     'REST API Integrations',
-    'PyCharm',
-    'Jupyter Notebook',
   ],
 
   experiences: [
@@ -115,14 +134,14 @@ const CONFIG = {
       position: 'System Administrator',
       from: 'Mar 2025',
       to: 'Jun 2025',
-      companyLink: '',
+      companyLink: undefined,
     },
     {
       company: 'ATOM Supply',
       position: 'Data Support Officer',
       from: 'Jun 2023',
       to: 'Dec 2024',
-      companyLink: '',
+      companyLink: undefined,
     },
   ],
 
@@ -131,7 +150,7 @@ const CONFIG = {
       name: 'Python for Data Science & AI Development',
       body: 'IBM',
       year: 'March 2022',
-      link: 'https://example.com',
+      link: 'https://www.coursera.org',
     },
   ],
 
