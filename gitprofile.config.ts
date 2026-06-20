@@ -93,7 +93,7 @@ const CONFIG = {
   },
 
   resume: {
-    fileUrl: '/Resume_rkhan_2026.pdf',
+    fileUrl: 'Resume_rkhan_2026.pdf',
   },
 
   skills: [
@@ -143,8 +143,8 @@ const CONFIG = {
     {
       institution: 'Edith Cowan University',
       degree: 'Master of Management Information Systems',
-      from: '2015',
-      to: '2019',
+      from: '2020',
+      to: '2022',
     },
     {
       institution: 'Institution Name',
@@ -164,8 +164,8 @@ const CONFIG = {
   },
 
   themeConfig: {
-    defaultTheme: 'lofi',
-    disableSwitch: false,
+    defaultTheme: 'forest',
+    disableSwitch: true,
     respectPrefersColorScheme: false,
     displayAvatarRing: false,
     themes: [
