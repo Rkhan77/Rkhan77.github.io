@@ -9,7 +9,7 @@ const CONFIG = {
 
   projects: {
     github: {
-      display: true,
+      display: false,
       header: 'Programming Projects',
       mode: 'automatic',
       automatic: {
