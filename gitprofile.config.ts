@@ -41,7 +41,7 @@ const CONFIG = {
           description:
             'Automated personalised welcome emails for new clients.',
           imageUrl: 'Projects/img/ap2.png',
-          link: '',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap2.png',
         },
         {
           title: 'Automation Project 3: Update Client Database',
@@ -93,7 +93,7 @@ const CONFIG = {
   },
 
   resume: {
-    fileUrl: 'Resume_rkhan_2026.pdf',
+    fileUrl: 'Projects/Resume_rkhan_2026.pdf',
   },
 
   skills: [
