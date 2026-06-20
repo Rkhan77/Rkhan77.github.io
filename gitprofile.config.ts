@@ -30,7 +30,7 @@ const CONFIG = {
       projects: [
         {
           title: 'Automation Project 1: Client Payment Request Email',
-          description: `Automated the preparation of payment request emails for new and existing clients while accurately calculating fees and service quantities.`,
+          description: `Reduced manual billing preparation time by ~80% by automating fee calculation and email generation for client payments`,
           imageUrl: '/Projects/img/ap1.png',
           link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
         },
