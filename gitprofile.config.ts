@@ -30,7 +30,7 @@ const CONFIG = {
       projects: [
         {
           title: 'Automation Project 1: Client Payment Request Email',
-          description: `Automate the preparation of payment request emails for new and existing clients while accurately calculating fees and service quantities.`,
+          description: `Automated the preparation of payment request emails for new and existing clients while accurately calculating fees and service quantities.`,
           imageUrl: '/Projects/img/ap1.png',
           link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
         },
@@ -131,7 +131,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Python for Data Science & AI Development',
-      body: '',
+      body: 'IBM',
       year: 'March 2022',
       link: 'https://example.com',
     },
