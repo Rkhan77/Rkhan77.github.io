@@ -66,7 +66,6 @@ const CONFIG = {
         },
       ],
     },
-  },
 
   seo: {
     title: 'Rezaul_Portfolio',
