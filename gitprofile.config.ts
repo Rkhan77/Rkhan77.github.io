@@ -38,10 +38,10 @@ const CONFIG = {
         {
           title: 'Automation Project 2: Onboarding Email',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Automated personalised welcome emails for new clients.',
           imageUrl:
             'Projects/img/ap2.png',
-          link: 'https://example.com',
+          link: 'https://github.com/Rkhan77/rkhan77.github.io/blob/71c62deb22b2f449c7e19cf474bf134c067ad2ff/Projects/img/ap2.png',
         },
         {
           title: 'Automation Project 3: Update Client Database',
