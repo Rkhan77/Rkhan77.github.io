@@ -103,7 +103,6 @@ const ExternalProjectCard = ({
                         <LazyImage
                           src={item.imageUrl}
                           alt={'thumbnail'}
-                          className="w-full h-auto object-contain rounded-lg"
                           placeholder={skeleton({
                             widthCls: 'w-full',
                             heightCls: 'h-64',
