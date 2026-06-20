@@ -41,21 +41,21 @@ const CONFIG = {
           description:
             'Automated personalised welcome emails for new clients.',
           imageUrl: 'Projects/img/ap2.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/Projects/img/ap2.png',
+          link: '',
         },
         {
           title: 'Automation Project 3: Update Client Database',
           description:
             'Automate client database updates with accurate record handling.',
           imageUrl: 'Projects/img/ap3.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/Projects/img/ap3.png',
+          link: '',
         },
         {
           title: 'Automation Project 4: Update Cellcast and Outlook Contacts',
           description:
             'Sync and update contacts across Cellcast and Outlook automatically.',
           imageUrl: 'Projects/img/ap4.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/Projects/img/ap4.png',
+          link: '',
         },
         {
           title: 'Automation Project 5: Scheduled AI-Powered Marketing SMS',
@@ -63,7 +63,7 @@ const CONFIG = {
             'Schedule and send AI-powered marketing SMS campaigns automatically.',
           imageUrl:
             'Projects/img/ap5.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/Projects/img/ap5.png',
+          link: '',
         },
         {
           title: 'Automation Project 6: Job Allocation Email',
@@ -71,7 +71,7 @@ const CONFIG = {
             'Automated job allocation and notification emails for internal teams.',
           imageUrl:
             'Projects/img/ap6.png',
-          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/Projects/img/ap6.png',
+          link: '',
         },
       ],
     },
