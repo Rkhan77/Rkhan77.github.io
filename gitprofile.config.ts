@@ -39,25 +39,22 @@ const CONFIG = {
           title: 'Automation Project 2: Onboarding Email',
           description:
             'Automated personalised welcome emails for new clients.',
-          imageUrl:
-            'Projects/img/ap2.png',
-          link: 'https://github.com/Rkhan77/rkhan77.github.io/blob/71c62deb22b2f449c7e19cf474bf134c067ad2ff/Projects/img/ap2.png',
+          imageUrl: 'Projects/img/ap2.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap2.png',
         },
         {
           title: 'Automation Project 3: Update Client Database',
           description:
             'Automate client database updates with accurate record handling.',
-          imageUrl:
-            'Projects/img/ap3.png',
-          link: 'https://example.com',
+          imageUrl: 'Projects/img/ap3.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap3.png',
         },
         {
           title: 'Automation Project 4: Update Cellcast and Outlook Contacts',
           description:
             'Sync and update contacts across Cellcast and Outlook automatically.',
-          imageUrl:
-            'Projects/img/ap4.png',
-          link: 'https://example.com',
+          imageUrl: 'Projects/img/ap4.png',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap4.png',
         },
         {
           title: 'Automation Project 5: Scheduled AI-Powered Marketing SMS',
@@ -65,15 +62,15 @@ const CONFIG = {
             'Schedule and send AI-powered marketing SMS campaigns automatically.',
           imageUrl:
             'Projects/img/ap5.png',
-          link: 'https://example.com',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap5.png',
         },
         {
           title: 'Automation Project 6: Job Allocation Email',
           description:
-            'Automate job allocation and notification emails for internal teams.',
+            'Automated job allocation and notification emails for internal teams.',
           imageUrl:
             'Projects/img/ap6.png',
-          link: 'https://example.com',
+          link: 'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/refs/heads/main/Projects/img/ap6.png',
         },
       ],
     },
