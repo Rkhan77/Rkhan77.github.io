@@ -110,7 +110,7 @@ const CONFIG = {
       position: 'AI Platform Developer (Contract)',
       from: 'March 2026',
       to: 'Present',
-      companyLink: '',
+      companyLink: undefined,
     },
     {
       company: 'EverAbility Group',
@@ -153,7 +153,7 @@ const CONFIG = {
   ],
 
   googleAnalytics: {
-    id: 'G - 398542808',
+    id: 'G-398542808',
   },
 
   hotjar: {
