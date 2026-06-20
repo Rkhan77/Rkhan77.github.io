@@ -99,13 +99,13 @@ const ExternalProjectCard = ({
                   </h2>
                   {item.imageUrl && (
                     <div className="w-full flex justify-center">
-                      <div className="w-full max-h-64 flex items-center justify-center p-2">
+                      <div className="w-full max-h-64 flex items-center justify-center">
                         <LazyImage
                           src={item.imageUrl}
                           alt={'thumbnail'}
                           placeholder={skeleton({
                             widthCls: 'w-full',
-                            heightCls: 'h-40',
+                            heightCls: 'h-30',
                             shape: '',
                           })}
                         />
