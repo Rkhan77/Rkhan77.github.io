@@ -98,8 +98,8 @@ const ExternalProjectCard = ({
                     {item.title}
                   </h2>
                   {item.imageUrl && (
-                    <div className="avatar opacity-90">
-                      <div className="w-full h-24">
+                    <div className="w-full flex justify-center">
+                      <div className="w-full max-h-64 flex items-center justify-center overflow-hidden">
                         <LazyImage
                           src={item.imageUrl}
                           alt={'thumbnail'}
