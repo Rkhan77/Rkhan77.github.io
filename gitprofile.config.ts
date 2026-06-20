@@ -115,15 +115,15 @@ const CONFIG = {
     {
       company: 'EverAbility Group',
       position: 'System Administrator',
-      from: 'July 2019',
-      to: 'August 2021',
+      from: 'Mar 2025',
+      to: 'Jun 2025',
       companyLink: '',
     },
     {
       company: 'ATOM Supply',
       position: 'Data Support Officer',
-      from: 'July 2019',
-      to: 'August 2021',
+      from: 'Jun 2023',
+      to: 'Dec 2024',
       companyLink: '',
     },
   ],
@@ -153,7 +153,7 @@ const CONFIG = {
   ],
 
   googleAnalytics: {
-    id: 'GA4 - 542435653',
+    id: 'G - 398542808',
   },
 
   hotjar: {
