@@ -31,12 +31,15 @@ const CONFIG = {
         {
           title: 'Automation Project 1: Client Payment Request Email',
           description:
-            `• Automated fee and service quantity calculations
+            `Automate the preparation of payment request emails for new and existing clients while accurately calculating fees and service
+quantities.
+
+• Automated fee and service quantity calculations
 • Generated personalised payment request emails
 • Created Outlook draft emails for review
 • Updated processing logs automatically
 • Reduced manual administration and calculation errors`,
-          imageUrl: 'Projects/img/Client Payment Info Automation.png',
+          imageUrl: 'Projects/img/ap1.png',
           link: 'https://example.com',
         },
         {
