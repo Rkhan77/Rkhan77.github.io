@@ -40,7 +40,7 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'Projects/img/ap2.png',
           link: 'https://example.com',
         },
         {
@@ -48,7 +48,7 @@ const CONFIG = {
           description:
             'Automate client database updates with accurate record handling.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'Projects/img/ap3.png',
           link: 'https://example.com',
         },
         {
@@ -56,7 +56,7 @@ const CONFIG = {
           description:
             'Sync and update contacts across Cellcast and Outlook automatically.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'Projects/img/ap4.png',
           link: 'https://example.com',
         },
         {
@@ -64,7 +64,7 @@ const CONFIG = {
           description:
             'Schedule and send AI-powered marketing SMS campaigns automatically.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'Projects/img/ap5.png',
           link: 'https://example.com',
         },
         {
@@ -72,7 +72,7 @@ const CONFIG = {
           description:
             'Automate job allocation and notification emails for internal teams.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'Projects/img/ap6.png',
           link: 'https://example.com',
         },
       ],
@@ -95,7 +95,7 @@ const CONFIG = {
   },
 
   resume: {
-    fileUrl: 'Resume_rkhan_2026.pdf',
+    fileUrl: '/Resume_rkhan_2026.pdf',
   },
 
   skills: [
