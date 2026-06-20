@@ -75,14 +75,12 @@ const CONFIG = {
   },
 
   social: {
-    location: 'Perth WA 6103, Australia',
     linkedin: 'rezaul-k',
     instagram: 'rezaul_kh4n',
     gurushots: 'RawPixel',
     phone: '0449695807',
     email: 'khanrezaul77@gmail.com',
   },
-
   resume: {
     fileUrl: '/Projects/Resume_rkhan_2026.pdf',
   },
