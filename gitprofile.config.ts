@@ -9,14 +9,14 @@ const CONFIG = {
 
   projects: {
     github: {
-      display: false,
-      header: 'Github Projects',
+      display: true,
+      header: 'Programming Projects',
       mode: 'automatic',
       automatic: {
         sortBy: 'stars',
         limit: 8,
         exclude: {
-          forks: true,
+          forks: false,
           projects: [],
         },
       },
@@ -106,18 +106,25 @@ const CONFIG = {
 
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Ace Tutoring',
+      position: 'AI Platform Developer (Contract)',
+      from: 'March 2026',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'EverAbility Group',
+      position: 'System Administrator',
       from: 'July 2019',
       to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: '',
+    },
+    {
+      company: 'ATOM Supply',
+      position: 'Data Support Officer',
+      from: 'July 2019',
+      to: 'August 2021',
+      companyLink: '',
     },
   ],
 
@@ -138,15 +145,15 @@ const CONFIG = {
       to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Southeast University',
+      degree: 'Bachelor of Business Administration (Major in Marketing)',
       from: '2012',
       to: '2014',
     },
   ],
 
   googleAnalytics: {
-    id: '',
+    id: 'GA4 - 542435653',
   },
 
   hotjar: {
@@ -171,7 +178,7 @@ const CONFIG = {
     ],
   },
 
-  enablePWA: true,
+  enablePWA: false,
 };
 
 export default CONFIG;
