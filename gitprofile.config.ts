@@ -14,7 +14,7 @@ const CONFIG = {
       mode: 'automatic',
       automatic: {
         sortBy: 'stars',
-        limit: 8,
+        limit: 4,
         exclude: {
           forks: false,
           projects: [],
