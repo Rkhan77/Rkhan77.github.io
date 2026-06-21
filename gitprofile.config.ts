@@ -136,8 +136,8 @@ const CONFIG = {
     {
       company: 'EverAbility Group',
       position: 'System Administrator (Contract)',
-      from: 'Mar 2025',
-      to: 'Feb 2025',
+      from: 'Feb 2025',
+      to: 'Jul 2025',
       companyLink: 'https://www.everabilitygroup.org.au/',
     },
     {
