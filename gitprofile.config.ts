@@ -121,6 +121,7 @@ const CONFIG = {
     'Git',
     'Docker',
     'Alteryx Designer',
+    'SAP',
     'Microsoft Dynamics 365',
     'Microsoft Excel',
     'Xero (Invoices)',
