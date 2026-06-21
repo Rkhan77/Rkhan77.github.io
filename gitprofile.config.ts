@@ -9,8 +9,8 @@ const CONFIG = {
 
   projects: {
     github: {
-      display: false,
-      header: 'Projects',
+      display: true,
+      header: 'Programming Projects',
       mode: 'automatic',
       automatic: {
         sortBy: 'stars',
