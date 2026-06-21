@@ -112,6 +112,7 @@ const CONFIG = {
     'HTML/CSS',
     'SQL',
     'VBA',
+    'ERP',
     'n8n',
     'Microsoft Azure (Entra ID)',
     'Google Cloud',
@@ -173,7 +174,7 @@ const CONFIG = {
     },
     {
       institution: 'Southeast University',
-      degree: 'Bachelor of Business Administrator',
+      degree: 'Bachelor of Business Administration',
       from: '2012',
       to: '2017',
     },
