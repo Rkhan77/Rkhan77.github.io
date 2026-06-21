@@ -10,14 +10,14 @@ const CONFIG = {
   projects: {
     github: {
       display: true,
-      header: 'Programming Projects',
+      header: 'Python Projects',
       mode: 'automatic',
       automatic: {
         sortBy: 'stars',
         limit: 4,
         exclude: {
           forks: true,
-          projects: [],
+          projects: ['rkhan77/Passwork-Checker'],
         },
       },
       manual: {
@@ -26,12 +26,12 @@ const CONFIG = {
     },
 
     external: {
-      header: 'Automation & AI Projects',
+      header: 'Automation Projects',
       projects: [
         {
           title: 'Automated Client Billing & Payment System',
           description:
-            'Reduced manual billing preparation time by ~80% by automating fee calculation and email generation for client payments',
+            'Reduced manual billing preparation time by 90% by automating fee calculation and email generation for client payments',
           imageUrl:
             'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
           link:
@@ -49,7 +49,7 @@ const CONFIG = {
         {
           title: 'Client Data Synchronisation Pipeline',
           description:
-            'Automates client database updates with accurate record validation and cross-system syncing',
+            'Automated client database updates with accurate record validation and cross-system syncing',
           imageUrl:
             'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap3.png',
           link:
@@ -76,7 +76,7 @@ const CONFIG = {
         {
           title: 'Automated Job Allocation Notification System',
           description:
-            'Automates internal job allocation notifications and workforce coordination emails',
+            'Automated internal job allocation notifications and workforce coordination emails',
           imageUrl:
             'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap6.png',
           link:
@@ -87,8 +87,8 @@ const CONFIG = {
   },
 
   seo: {
-    title: 'Rezaul Portfolio',
-    description: 'Portfolio of automation, AI, and data engineering projects',
+    title: 'Rezaul K | Portfolio',
+    description: 'Automation, AI, and data engineering',
     imageURL:
       'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
   },
@@ -107,15 +107,24 @@ const CONFIG = {
   },
 
   skills: [
-    'Automation Engineering',
     'Python',
     'JavaScript',
+    'HTML/CSS',
+    'SQL',
+    'Visual Basic for Applications (VBA)',
     'API Integration',
-    'n8n Workflow Automation',
+    'n8n',
     'Microsoft Azure (Entra ID)',
     'Google Cloud',
     'Large Language Models',
+    'Git',
     'Docker',
+    'ERP Systems',
+    'Microsoft Dynamics 365',
+    'Microsoft Excel',
+    'Hubspot CRM',
+    'Jira Service Management',
+    'Xero',
     'Data Pipelines',
     'System Integration',
     'REST API Integrations',
@@ -127,30 +136,36 @@ const CONFIG = {
       position: 'AI Platform Developer (Contract)',
       from: 'March 2026',
       to: 'Present',
-      companyLink: undefined,
+      companyLink: 'https://acetutoring.com.au/',
     },
     {
       company: 'EverAbility Group',
       position: 'System Administrator',
       from: 'Mar 2025',
-      to: 'Jun 2025',
-      companyLink: undefined,
+      to: 'Feb 2025',
+      companyLink: 'https://www.everabilitygroup.org.au/',
     },
     {
       company: 'ATOM Supply',
       position: 'Data Support Officer',
       from: 'Jun 2023',
       to: 'Dec 2024',
-      companyLink: undefined,
+      companyLink: 'https://www.atom.com.au/',
     },
   ],
 
   certifications: [
     {
       name: 'Python for Data Science & AI Development',
-      body: 'IBM',
+      body: 'Coursera - Authorized by IBM',
       year: 'March 2022',
-      link: 'https://www.coursera.org',
+      link: 'https://www.credly.com/badges/01051519-10c3-41a3-9bbf-d9f8b3b8bd1e/linked_in_profile',
+    },
+    {
+      name: 'Python Programming Certification ',
+      body: 'Programming Hub',
+      year: 'Nov 2021',
+      link: '',
     },
   ],
 
@@ -161,6 +176,13 @@ const CONFIG = {
       from: '2020',
       to: '2022',
     },
+    {
+      institution: 'Southeast University',
+      degree: 'Bachelor of Business Administrator',
+      from: '2012',
+      to: '2017',
+    },
+    
   ],
 
   googleAnalytics: {
