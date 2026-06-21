@@ -123,7 +123,7 @@ const CONFIG = {
     'Alteryx Designer',
     'Microsoft Dynamics 365',
     'Microsoft Excel',
-    'Xero (Invoices),
+    'Xero (Invoices)',
     'Hubspot CRM',
     'Penelope CMS',
     'Jira Service Management',
