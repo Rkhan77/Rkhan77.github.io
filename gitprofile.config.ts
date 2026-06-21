@@ -111,7 +111,7 @@ const CONFIG = {
     'JavaScript',
     'HTML/CSS',
     'SQL',
-    'Visual Basic for Applications (VBA)',
+    'VBA',
     'n8n',
     'Microsoft Azure (Entra ID)',
     'Google Cloud',
