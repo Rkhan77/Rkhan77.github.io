@@ -58,7 +58,7 @@ const CONFIG = {
         {
           title: 'Cross-Platform Contact Sync Automation',
           description:
-            'Syncs and updates contacts between Cellcast and Outlook automatically',
+            'Developed automation that syncs and updates contacts between Cellcast and Outlook automatically',
           imageUrl:
             'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap4.png',
           link:
@@ -96,7 +96,7 @@ const CONFIG = {
   social: {
     linkedin: 'rezaul-k',
     instagram: 'rezaul_kh4n',
-    gurushots: 'RawPixel',
+    gurushots: 'https://gurushots.com/RawPixel',
     phone: '+61 449 695 807',
     email: 'khanrezaul77@gmail.com',
   },
@@ -119,13 +119,11 @@ const CONFIG = {
     'Large Language Models',
     'Git',
     'Docker',
-    'ERP Systems',
     'Microsoft Dynamics 365',
     'Microsoft Excel',
     'Hubspot CRM',
     'Jira Service Management',
     'Xero',
-    'Data Pipelines',
     'System Integration',
     'REST API Integrations',
   ],
@@ -140,7 +138,7 @@ const CONFIG = {
     },
     {
       company: 'EverAbility Group',
-      position: 'System Administrator',
+      position: 'System Administrator (Contract)',
       from: 'Mar 2025',
       to: 'Feb 2025',
       companyLink: 'https://www.everabilitygroup.org.au/',
