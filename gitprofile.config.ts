@@ -112,7 +112,6 @@ const CONFIG = {
     'HTML/CSS',
     'SQL',
     'Visual Basic for Applications (VBA)',
-    'API Integration',
     'n8n',
     'Microsoft Azure (Entra ID)',
     'Google Cloud',
@@ -123,8 +122,6 @@ const CONFIG = {
     'Microsoft Excel',
     'Hubspot CRM',
     'Jira Service Management',
-    'Xero',
-    'System Integration',
     'REST API Integrations',
   ],
 
