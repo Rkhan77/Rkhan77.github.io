@@ -88,7 +88,7 @@ const CONFIG = {
 
   seo: {
     title: 'Rezaul K | Portfolio',
-    description: 'Automation, AI, and data engineering',
+    description: 'Automation, AI, and data engineer',
     imageURL:
       'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap1.png',
   },
