@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'Rkhan77',
+    username: 'rkhan77',
   },
 
   base: '/',
@@ -10,7 +10,7 @@ const CONFIG = {
   projects: {
     github: {
       display: false,
-      header: 'Programming Projects',
+      header: 'Projects',
       mode: 'automatic',
       automatic: {
         sortBy: 'stars',
@@ -161,16 +161,10 @@ const CONFIG = {
       from: '2020',
       to: '2022',
     },
-    {
-      institution: 'Southeast University',
-      degree: 'Bachelor of Business Administration (Major in Marketing)',
-      from: '2012',
-      to: '2014',
-    },
   ],
 
   googleAnalytics: {
-    id: 'G-398542808',
+    id: '',
   },
 
   hotjar: {
