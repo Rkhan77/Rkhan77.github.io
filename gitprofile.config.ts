@@ -65,9 +65,9 @@ const CONFIG = {
             'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap4.png',
         },
         {
-          title: 'AI-Powered SMS Marketing Scheduler',
+          title: 'AI-Powered SMS Marketing',
           description:
-            'Schedules and sends AI-assisted SMS marketing campaigns automatically',
+            'Send AI generated marketing SMS and track campaigns automatically',
           imageUrl:
             'https://raw.githubusercontent.com/Rkhan77/rkhan77.github.io/main/Projects/img/ap5.png',
           link:
