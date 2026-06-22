@@ -186,7 +186,7 @@ const CONFIG = {
   ],
 
   googleAnalytics: {
-    id: 'G-542435653',
+    id: 'G-2E9QDKTNEB',
   },
 
   hotjar: {
