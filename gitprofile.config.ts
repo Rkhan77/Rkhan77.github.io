@@ -158,7 +158,7 @@ const CONFIG = {
     {
       name: 'Python for Data Science & AI Development',
       body: 'Coursera - Authorized by IBM',
-      year: 'March 2022',
+      year: 'Nov 2022',
       link: 'https://www.credly.com/badges/01051519-10c3-41a3-9bbf-d9f8b3b8bd1e/linked_in_profile',
     },
     {
